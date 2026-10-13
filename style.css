@@ -1,0 +1,10 @@
+img {
+    height:auto;
+    width: 400px;
+}
+body {
+  text-align: center;
+  font-family: "Arial" ;
+  background: blue;
+  color: pink;
+}
